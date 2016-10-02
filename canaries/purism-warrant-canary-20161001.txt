@@ -1,0 +1,8 @@
+Warrant Canary, October 1st 2016
+
+1. We have not placed any backdoors into our software or hardware, and we have not complied with any requests to do so.
+2. We have not received, nor complied with any National Security Letters or FISA court orders.
+3. We have not been subject to any gag order by a FISA court.
+
+The next statement will be published on the first day of each quarter
+(January 1st, April 1st, July 1st, October 1st)
