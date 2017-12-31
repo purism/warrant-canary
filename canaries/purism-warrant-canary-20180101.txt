@@ -1,0 +1,21 @@
+Warrant Canary, January 1st 2018
+
+Effective January 1st, 2018 we are specifically calling out hardware, software, and services as three separate warrant canaries.
+
+librem-hardware-warrant-canary-20180101.txt
+pureos-software-warrant-canary-20180101.txt
+purist-services-warrant-canary-20180101.txt
+
+### current news feed removing future-dating of warrant canary
+### curl --silent "http://feeds.reuters.com/reuters/scienceNews" | xmllint --xpath //item//title - | sed "s/<title>//g" | sed "s/<\/title>/\n/g"
+
+SpaceX-launched Iridium satellites functioning normally
+Russia re-establishes contact with Angola's telecoms satellite
+Russia says satellite launch failure due to programming error
+U.S. lifts funding ban on studies that enhance dangerous germs
+U.S., Russian, Japanese crew arrive at space station
+Israel's NRGene maps genome for three types of potatoes
+Season's micro-greetings: Scientists claim smallest Christmas card
+ArianeGroup to start building first Ariane 6 launcher
+Does Pentagon still have a UFO program? The answer is a bit mysterious
+Google crunches data to help NASA find two new planets
