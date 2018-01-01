@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Services Warrant Canary, January 1st 2018
+
+Effective January 1st, 2018 we are specifically calling out hardware, software, and services as three separate warrant canaries.
+
+1. We have not placed any backdoors into our services, and we have not complied with any requests to do so.
+2. We have not complied with any National Security Letters or FISA court orders regarding our services.
+3. We have not been subject to any gag order by a FISA court regarding our services.
+
+The next statement will be published on the first day of each quarter
+(January 1st, April 1st, July 1st, October 1st)
+
+### current news feed removing future-dating of warrant canary
+### curl --silent "http://feeds.reuters.com/reuters/scienceNews" | xmllint --xpath //item//title - | sed "s/<title>//g" | sed "s/<\/title>/\n/g"
+
+SpaceX-launched Iridium satellites functioning normally
+Russia re-establishes contact with Angola's telecoms satellite
+Russia says satellite launch failure due to programming error
+U.S. lifts funding ban on studies that enhance dangerous germs
+U.S., Russian, Japanese crew arrive at space station
+Israel's NRGene maps genome for three types of potatoes
+Season's micro-greetings: Scientists claim smallest Christmas card
+ArianeGroup to start building first Ariane 6 launcher
+Does Pentagon still have a UFO program? The answer is a bit mysterious
+Google crunches data to help NASA find two new planets
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEuMqs6tlJMPEjxGQsI88uPSVFFPcFAlpJekIACgkQI88uPSVF
+FPeLcQ//WOTFL43UKzH/n/U8zkAz9FB8PzwLqFz/+52GZ3OKSIodc0z2SjApTKTg
+j12QS0xtGlROLBvcTpHjYIhijVs40FE8WwEUOA/fJhM/OZpoxCoNBWFQz+zxwLtf
+/F5ImVo4X9YZg/Qzelb2SX3+tqQiBrc66JNS1v67dCThrlLXsAudmu3UPVl6Ww98
+IA5lxgIQrKYuAXzBFIO/M6DqJixqq7JHuZOCwsueiTCBoHVu4sJ8wifPDv2GtEpg
+/TZEczI4sKUAYY0vBIGubKXjtkqI2+e2qZQkBf/zuWhMhbkj+HaxdZoIEkZmFJgL
+y0NpNFyb80Da+3oUwoQXjEutUbZA+XDQUbko+Y9lZtH+xEb2UNQUba1d00sAd+DX
+QtWjm0w4r1deLDT/1oHtgnfbwS5qwiK/5jwYh+cEKtnSY2NVtDaNcAZQ83p7xo9t
+ZeYUed0WP1I6tI67WR6flpEKNsiS8vN/rA+iNEeVYvoMpsEe+duRqt/OXxBfXWER
+1IqxrO+ysngCs9pA3dC8FpGUqvGp+OhHHnEcS3QHTq4/ASgMWSweNMdLbtObZMWQ
+tz8SCuoOApV8kvsjWsVCMZNvISUrMmdiAnEJgKdEEDG395rIbC1Rvdw38Ho1M9fM
+geUwkWGxSwypd10rQjbLbW8HkKclZ5vresLao59W6l9IeOlCxug=
+=ghlF
+-----END PGP SIGNATURE-----

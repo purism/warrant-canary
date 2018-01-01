@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Hardware Warrant Canary, January 1st 2018
+
+Effective January 1st, 2018 we are specifically calling out hardware, software, and services as three separate warrant canaries.
+
+1. We have not placed any backdoors into our hardware, and we have not complied with any requests to do so.
+2. We have not complied with any National Security Letters or FISA court orders regarding our hardware.
+3. We have not been subject to any gag order by a FISA court regarding our hardware.
+
+The next statement will be published on the first day of each quarter
+(January 1st, April 1st, July 1st, October 1st)
+
+### current news feed removing future-dating of warrant canary
+### curl --silent "http://feeds.reuters.com/reuters/scienceNews" | xmllint --xpath //item//title - | sed "s/<title>//g" | sed "s/<\/title>/\n/g"
+
+SpaceX-launched Iridium satellites functioning normally
+Russia re-establishes contact with Angola's telecoms satellite
+Russia says satellite launch failure due to programming error
+U.S. lifts funding ban on studies that enhance dangerous germs
+U.S., Russian, Japanese crew arrive at space station
+Israel's NRGene maps genome for three types of potatoes
+Season's micro-greetings: Scientists claim smallest Christmas card
+ArianeGroup to start building first Ariane 6 launcher
+Does Pentagon still have a UFO program? The answer is a bit mysterious
+Google crunches data to help NASA find two new planets
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEuMqs6tlJMPEjxGQsI88uPSVFFPcFAlpJeiEACgkQI88uPSVF
+FPevuQ//ZVio9OXfItBfpdFyJLeEjY2BiYxP868bEHsfwzst9QHnF65Wabwj5dsw
+wlb0JiV21wEMK7o2dte3CzExEumeJe2RAPS0/NNdSJlH7FKbZfribJxgzGnzoe/R
+Q0UmIB76+GBEL62+eyOk2xMO2zm3sroq+MCwDzv3xiZtXN7pHkTL++vGBpIscn77
+teFOJgwe6BBXatOYWMRng1EhRsCIOqNrUtFynS0fUR+VS/q8VIv2w01wR5ygIedY
+x1oRetfzskwQK2RjIkm6nduN+JQg0NQAQGDaiXYcB8aj1UKr5I/9hVLKbvvV2tvh
+QatMYUrxkhe3/YR6kNlrUL4n3JKRMD/MixMrSWjr503Uvf3cofbxaq5V24MnV859
+7Cu7SnUtGboZkKqqcXxt65lIG50/opsE4HObwWpqquTbXlEdnA7+E2bPt1nipg+/
+eUwUlZpa9puVySSqnRND3Iw+41DLGC5IjhZh9Gp9evB0FX/sVXtZqMCi43DB1lVH
+SW21o7HwSakRYE5R0DgYZaZb0IN6D6RorPE3V44O8v9KqpaqCoyla1svHr+qVgrO
+2XAHrER0TdabSU9xWkZyOq0DLw3EFZDV0bY9+qWwLDUmuQyH0aHEeUAIA4vmRCbo
+POGjbw4ahBl6pa3mIpc9QbXLST4YW9z/+5c6hEkt5Bpvnre+aMk=
+=ospQ
+-----END PGP SIGNATURE-----

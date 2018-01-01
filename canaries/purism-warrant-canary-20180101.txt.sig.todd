@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Warrant Canary, January 1st 2018
+
+Effective January 1st, 2018 we are specifically calling out hardware, software, and services as three separate warrant canaries.
+
+librem-hardware-warrant-canary-20180101.txt
+pureos-software-warrant-canary-20180101.txt
+purist-services-warrant-canary-20180101.txt
+
+### current news feed removing future-dating of warrant canary
+### curl --silent "http://feeds.reuters.com/reuters/scienceNews" | xmllint --xpath //item//title - | sed "s/<title>//g" | sed "s/<\/title>/\n/g"
+
+SpaceX-launched Iridium satellites functioning normally
+Russia re-establishes contact with Angola's telecoms satellite
+Russia says satellite launch failure due to programming error
+U.S. lifts funding ban on studies that enhance dangerous germs
+U.S., Russian, Japanese crew arrive at space station
+Israel's NRGene maps genome for three types of potatoes
+Season's micro-greetings: Scientists claim smallest Christmas card
+ArianeGroup to start building first Ariane 6 launcher
+Does Pentagon still have a UFO program? The answer is a bit mysterious
+Google crunches data to help NASA find two new planets
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEuMqs6tlJMPEjxGQsI88uPSVFFPcFAlpJegUACgkQI88uPSVF
+FPd+Iw//dtZyTDi8ke4JPHUyieUrciq5HN1pR4nWlcw0CUCltMT8nvRicVDAje4Y
+L8UN3SadsZAl3Zcmr6l2T34lF8fx54gXYDYdSih1TlM7a34mVRFhymOMHNptKuZ6
+N0i2kP1z1vwjpNa/PadJYgZsbl5O3DfZmKkhpNNSw3LKwEcmvmm28KSQMuV5zUEk
+TF0KW7jJOru5A5lkd0EC2pnuVUcV7GAWVQrv+GU0nXSKggocBsv9MiH0GPKsb1f8
+BGP5a/MixesTVBHh0AV/k154fuoHmXyRYMML9j9gNHfKcEYLf/yG6m29XM2TfD0e
+QESPLigIj69viZTUJSjgHNHjb3EzSH/UWq3eFaBwLFttqz739tU6Zjsnd5UugzjC
+HBHxAGuCbh6D49vNZw02ds+Tx0Me1g0+q9YwuM/CtSR0Z2NuZPKN5M5FXYdNXVd8
+wzJV+QGzARoj8NjImOT1xKtzLdgYMCPCwVyjxlcJ0c8qEb0oP5Mrj38t/x3hhPHF
+o26CxPmiF7GCjXqwt9HMvq6BC2Wl287Vit0RKRXXqnimLd0tGkkXLWd1FIayVhEg
+ctGZwVJ3iDe8XeVj1w/kvhcaikovRRWtM6KGf6bhtmgcXoFEmJodadH2OiyCZF3w
+fVvLvJJN2u66Pne6X4kimUHvifaR7b70eNWvmEvbMFa+c5L70tI=
+=mZjb
+-----END PGP SIGNATURE-----

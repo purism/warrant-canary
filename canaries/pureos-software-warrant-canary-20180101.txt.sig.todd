@@ -1,0 +1,43 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Software Warrant Canary, January 1st 2018
+
+Effective January 1st, 2018 we are specifically calling out hardware, software, and services as three separate warrant canaries.
+
+1. We have not placed any backdoors into our software, and we have not complied with any requests to do so.
+2. We have not complied with any National Security Letters or FISA court orders regarding our software.
+3. We have not been subject to any gag order by a FISA court regarding our software.
+
+The next statement will be published on the first day of each quarter
+(January 1st, April 1st, July 1st, October 1st)
+
+### current news feed removing future-dating of warrant canary
+### curl --silent "http://feeds.reuters.com/reuters/scienceNews" | xmllint --xpath //item//title - | sed "s/<title>//g" | sed "s/<\/title>/\n/g"
+
+SpaceX-launched Iridium satellites functioning normally
+Russia re-establishes contact with Angola's telecoms satellite
+Russia says satellite launch failure due to programming error
+U.S. lifts funding ban on studies that enhance dangerous germs
+U.S., Russian, Japanese crew arrive at space station
+Israel's NRGene maps genome for three types of potatoes
+Season's micro-greetings: Scientists claim smallest Christmas card
+ArianeGroup to start building first Ariane 6 launcher
+Does Pentagon still have a UFO program? The answer is a bit mysterious
+Google crunches data to help NASA find two new planets
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEuMqs6tlJMPEjxGQsI88uPSVFFPcFAlpJejMACgkQI88uPSVF
+FPeh7w//Tnm/oOMJvvq2KeIffZbYlMr28yDhXqHECAnQURQiEQldNVKfmYLxz80Q
+BBiY5IHbgNyniJNBkF5OALaEpqeJe394TI8p+FtIWBjJDC+Qwmmlz8LtkmgBYwbt
+T+IFipPlM0uavo/4EbALc5VNxOauj61XFIBl5HJIPUyW6YvjAOqAK8j5evrnUvKI
+OldNyWc5ZXzoCoVNlA2O2CF+LUj+tcRmF2e+z4of4XNHCq+/Uc72twCaDX4dCZxU
+AfH03DJOY0+ImJgqGyZd4AFMYCXd4YC0wv1Ue8PE9hR69I2gHymU5xs9luBcqKIa
+MmkQmgU7WYNEGjwwBoeTY4thlj1zWMF7h3Ws9JJiOmOYtRbhNnAQYVLJ5muW80Ir
+G4mpsVVNsxsDY5UQno0Bx+ENA025a+trbsZE1PXZwth0HsSReFAr/0DTimkA0kOz
+4v2cR92dWRYojbSfmFrYQZ5YRvDhhy72wPdGXie9XdymtnBOt87JbQF7JRvNVI5n
+qX6Hx4701UwnTG9aw3xw6Ebn1IfQ3giFD5olsInGLc3sqBkcibVnl/itZm4pVn4o
+9sgaFAHhYF0RDTm1Z2qfgVGT6aP8yHe791hZH36lYtZgk9vJwc+cyrI4hSlDxIo8
+FlXmGtrTTrUyAG6zR4WBnV6i7m9RUTNxW51dCajrriKKneVC+Vk=
+=V9ZY
+-----END PGP SIGNATURE-----
