@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Hardware Warrant Canary, April 1st 2018
+
+1. We have not placed any backdoors into our hardware, and we have not complied with any requests to do so.
+2. We have not complied with any National Security Letters or FISA court orders regarding our hardware.
+3. We have not been subject to any gag order by a FISA court regarding our hardware.
+
+The next statement will be published on the first day of each quarter
+(January 1st, April 1st, July 1st, October 1st)
+
+### current news feed removing future-dating of warrant canary
+### curl --silent "http://feeds.reuters.com/reuters/scienceNews" | xmllint --xpath //item//title - | sed "s/<title>//g" | sed "s/<\/title>/\n/g"
+
+China says unlikely large pieces of space station will crash to earth
+France to spend $1.8 billion on AI to compete with U.S., China
+NASA intensifying search for planets orbiting stars beyond solar system
+Rocket science: will Inmarsat's wi-fi in the sky pay off?
+Scientists puzzled by exotic distant galaxy lacking dark matter
+Fossils of 'badass' Argentine meat-eating dinosaur unearthed
+Airbus says EU should keep Britain in Galileo space project despite Brexit
+Techno teachers: Finnish school trials robot educators
+Once overlooked, 2,500-year old coffin may offer clues into ancient Egypt
+China's Tiangong-1 space lab to fall to Earth this weekend: ESA
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEuMqs6tlJMPEjxGQsI88uPSVFFPcFAlq/4+UACgkQI88uPSVF
+FPcipA//Shf32qg6OouBD+bfp/naFrLjrG5QYKSOEDIk+5y5KN1uF7WcJafnVRGN
+nyOal5VEATLH102vmmIrj1Erw9JNtw0H6pwNukJYyUNlwybKlP52E8aUjKh/vGay
+tq2bb7o3SGPhulz57x/vjYelFtH/6Up0LAUJB1gs28djDQTO/LCDclOqX8le9i+8
+2pqFh/ljs+RHyD5JSjyF3IkCLEK6C2S4jwKD0omlayDCSJswjVQTwr2cwME86V3A
+UZcCuiZLf2TQ8WCsryXjOGlgPxTP1MQBouoQC7REj+eps+zCieZNx+Tuhkcnc/Hk
+WLsE+l/yW1zjfW4iRraR6UiVwfP7MOQL8w2LjA7++6zmaOrNN5JvqkHpJXdW+ljQ
+wZ3v5CmxiRDyPUd+ga/h5SPeAs+4XVZm49sgFzB+zCMRzPZ8SuTXUOaXkuKM92Eq
+YTFXDpzRjHoVTzkP0hxfohU65ZtWsafT+p4hXC5GqcPuJutb7h0LHMcW+NGW1cij
+t5pCT0UdmfyPAfEEiYtH+VUUitwaDHSlz+8+L9uzboPugn7hNICh12gvFBTMohBZ
+cUVUWIF58XcMmOUnfpGpof7HooUnXnF1izbVkI3MQncaa0pVRLPhGDcXx0ASjUbz
+4C3+AbCdfIUS0SiOtFkS6RFhmVtOSn0rW5mDXphS1KPnDm5UVZ0=
+=EhLw
+-----END PGP SIGNATURE-----

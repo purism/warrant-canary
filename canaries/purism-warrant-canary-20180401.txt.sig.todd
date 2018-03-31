@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Warrant Canary, April 1st 2018
+
+Effective January 1st, 2018 we are specifically calling out hardware, software, and services as three separate warrant canaries.
+
+librem-hardware-warrant-canary-20180101.txt
+pureos-software-warrant-canary-20180101.txt
+purist-services-warrant-canary-20180101.txt
+
+### current news feed removing future-dating of warrant canary
+### curl --silent "http://feeds.reuters.com/reuters/scienceNews" | xmllint --xpath //item//title - | sed "s/<title>//g" | sed "s/<\/title>/\n/g"
+
+China says unlikely large pieces of space station will crash to earth
+France to spend $1.8 billion on AI to compete with U.S., China
+NASA intensifying search for planets orbiting stars beyond solar system
+Rocket science: will Inmarsat's wi-fi in the sky pay off?
+Scientists puzzled by exotic distant galaxy lacking dark matter
+Fossils of 'badass' Argentine meat-eating dinosaur unearthed
+Airbus says EU should keep Britain in Galileo space project despite Brexit
+Techno teachers: Finnish school trials robot educators
+Once overlooked, 2,500-year old coffin may offer clues into ancient Egypt
+China's Tiangong-1 space lab to fall to Earth this weekend: ESA
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEuMqs6tlJMPEjxGQsI88uPSVFFPcFAlq/47QACgkQI88uPSVF
+FPeC1g/+Mwho9tcGAptexKrEelwNXTpWg9XZvro0imjHpW3Jo9fugSQ1atLutTTY
+LhD/RRzsTS7LfpojsogjmszPCtFD6vI9+muFM5+O6kug1QO4mcnn60cMkaOpTK9X
+V+WJZd1ANgdvStHx1PHMwpq4449gGqgASq946EN18vQvwjNGoOAJ3LSq4bVnUbJ/
+O2HZIUlDKPqb4iPw/6Emd9MPAvzaEbSRZeGd5d8Nd+0I7uTQXb5x4N8U9PsjeL8J
+5GQT+Tv2c/MOJP8hxoDDUXqMXEO14HCzSkbNzdKMTSYWGVbMOzrvig9IRSNhMYPq
+jeIv3a40tS9rF/kWfxJ9wDwNcP6PtR2aI31ODrFuTJ+J5JKFFC2pBTa/zYrI1WUF
+0ESWODI0YTb4DQJ4sTvfSPwQm/sCYGbDa4q//rrR7kKMiDfkuaGvxKuUpM3FIi8n
+evwkjU2gg/I0IZeJNd39GlAJuGBfhfdSY1Zk7HA4Q/P19hxGy+yIeIdgMkyAUa3y
+AOAcX4T1zbDnbZrd7IlJIaVWM0CCFV2OXjF/foLVobxsDQtlJYLHdeBOJ6l7gKET
+d2sy15c1wV4T3mwzv4XsrEndT72iuGVS/uDMhZ8ZSJ1hyRlTvEQA1fIEtWYQx3Ho
+itl22CpTQL2q3T/6vKztAV9TJ4W+2a7JKvlIhNp5scUmJ83EJwo=
+=SVmS
+-----END PGP SIGNATURE-----

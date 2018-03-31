@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Services Warrant Canary, April 1st 2018
+
+1. We have not placed any backdoors into our services, and we have not complied with any requests to do so.
+2. We have not complied with any National Security Letters or FISA court orders regarding our services.
+3. We have not been subject to any gag order by a FISA court regarding our services.
+
+The next statement will be published on the first day of each quarter
+(January 1st, April 1st, July 1st, October 1st)
+
+### current news feed removing future-dating of warrant canary
+### curl --silent "http://feeds.reuters.com/reuters/scienceNews" | xmllint --xpath //item//title - | sed "s/<title>//g" | sed "s/<\/title>/\n/g"
+
+China says unlikely large pieces of space station will crash to earth
+France to spend $1.8 billion on AI to compete with U.S., China
+NASA intensifying search for planets orbiting stars beyond solar system
+Rocket science: will Inmarsat's wi-fi in the sky pay off?
+Scientists puzzled by exotic distant galaxy lacking dark matter
+Fossils of 'badass' Argentine meat-eating dinosaur unearthed
+Airbus says EU should keep Britain in Galileo space project despite Brexit
+Techno teachers: Finnish school trials robot educators
+Once overlooked, 2,500-year old coffin may offer clues into ancient Egypt
+China's Tiangong-1 space lab to fall to Earth this weekend: ESA
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEuMqs6tlJMPEjxGQsI88uPSVFFPcFAlq/49gACgkQI88uPSVF
+FPeIjRAAj833+uTfemI3ACEfwH2RWKe5RbvhCh6XkQf6dyMKrdCam5HGL5GuPgO1
+dg/Luh7YnikR6PGyMBHY5NGfeMEJP5SD4qZdTaWAK/c2PMVAvIvlAy6otd45N06u
+zgOrEOTDm1cCTwdOvze9pW6jNKbvX6M0NXPO1sz90OYLr7UuEAT1lT415a+4QINr
+8HvXV4lbZXqb4Ggp7ZLi72iAWipnwZj5Nr9Q7DhHUIvBNZXlcC7e5uOHX9STKKDl
+Nocq1FxJQ8NuR0tpzPf6hRllBo2idxvw8oDiOT8nRJLDeF4KV48yJAR1vZ+zN9Xe
+p5TGbMg9+0Hh1xw3HTGXODeuowgjRAlCWGB8ZOdniLFfuZdvqmfX7PS9C42KdnE5
+PdSaBmSrpxdmDaWiW8Vho9mYZ7N4CVJFPRemQG/xuVS87IER1/jqzMCKZh1sFmdv
+D4zYRMI23pZT7L/pbHmlFey1klZs3UVdgXUlQUiEj6/+gS00BOyiym3ksy5CHoOX
+5TfIN5+/4hqZGwKw1oCxVbP0m7CQa1ozRC5dckE2mSZ8d7qwHPqUx5yOy3pvWNAn
+ADsWLmNG1mek+E/d0S0FoXjKeElBNPBcW0gaNG+OJEZ+7p2nCNsaLeYmrwk89qS0
+CTL41fGFBkb2uI5bnzBb87yINSZrG1kApMzdHrzWTvyfWN9mXe4=
+=O/HS
+-----END PGP SIGNATURE-----

@@ -1,0 +1,21 @@
+Warrant Canary, April 1st 2018
+
+Effective January 1st, 2018 we are specifically calling out hardware, software, and services as three separate warrant canaries.
+
+librem-hardware-warrant-canary-20180101.txt
+pureos-software-warrant-canary-20180101.txt
+purist-services-warrant-canary-20180101.txt
+
+### current news feed removing future-dating of warrant canary
+### curl --silent "http://feeds.reuters.com/reuters/scienceNews" | xmllint --xpath //item//title - | sed "s/<title>//g" | sed "s/<\/title>/\n/g"
+
+China says unlikely large pieces of space station will crash to earth
+France to spend $1.8 billion on AI to compete with U.S., China
+NASA intensifying search for planets orbiting stars beyond solar system
+Rocket science: will Inmarsat's wi-fi in the sky pay off?
+Scientists puzzled by exotic distant galaxy lacking dark matter
+Fossils of 'badass' Argentine meat-eating dinosaur unearthed
+Airbus says EU should keep Britain in Galileo space project despite Brexit
+Techno teachers: Finnish school trials robot educators
+Once overlooked, 2,500-year old coffin may offer clues into ancient Egypt
+China's Tiangong-1 space lab to fall to Earth this weekend: ESA
