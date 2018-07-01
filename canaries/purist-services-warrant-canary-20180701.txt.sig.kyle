@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Services Warrant Canary, July 1st 2018
+
+1. We have not placed any backdoors into our services, and we have not complied with any requests to do so.
+2. We have not complied with any National Security Letters or FISA court orders regarding our services.
+3. We have not been subject to any gag order by a FISA court regarding our services.
+
+The next statement will be published on the first day of each quarter
+(January 1st, April 1st, July 1st, October 1st)
+
+### current news feed removing future-dating of warrant canary
+### curl --silent "http://feeds.reuters.com/reuters/scienceNews" | xmllint --xpath //item//title - | sed "s/<title>//g" | sed "s/<\/title>/\n/g"
+
+HAL-like robot to help astronaut in space odyssey
+New Cassini findings suggest Saturn moon could support life
+700-year-old Vatican drawing of Australian bird rewrites medieval trade route history
+Cigar-shaped interstellar visitor 'Oumuamua classified as comet
+European firm Arianespace to miss 2018 satellite launch target
+Japan probe arrives at asteroid after nearly four-year space odyssey
+'Space kingdom' seeks citizens for life beyond Earth very soon
+Nick Hague dreamed of the stars as a boy, now he's heading to space
+Trump orders creation of space-focused U.S. military branch
+Fields of dreams: Texas project seeks new corn strains for whiskey
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEE9VOZaVfw1W7lTW9yVVV3EWv6dLkFAls4XAgACgkQVVV3EWv6
+dLmiWQgAlyZ/MhXxU7NoQX38zdFFz2dTnlbMISs+UxzpRJVnoVmsSV1LDM5HrGUk
+iqWRRfGny830CcnJZf/Fr55KlJCNVTCu/fh+9sm9YUl5VSU/kIh7MMo7MrxRAsfK
+Oz4uSRvKzr9cUTrBr6pK86yBnK5mJg/X8QKC10LlTP9KYbN9plTr2p7J4H/Q+Ri4
+e17kLhSUDgZ507pCP74TIclysiJ8iECnV194mIdg9w+I3vqK7UQG9sO99i3S7RlV
+0MnvWQjiYaeDieGog3Uw7zTC/FDzf77F+L+w7vVb0y4NWNdD+Ll9A/mFhY6CC3M2
+RE3rlkhHUeczujKxNPDLGWN3Gmdopg==
+=yLij
+-----END PGP SIGNATURE-----
