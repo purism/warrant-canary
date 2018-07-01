@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Hardware Warrant Canary, July 1st 2018
+
+1. We have not placed any backdoors into our hardware, and we have not complied with any requests to do so.
+2. We have not complied with any National Security Letters or FISA court orders regarding our hardware.
+3. We have not been subject to any gag order by a FISA court regarding our hardware.
+
+The next statement will be published on the first day of each quarter
+(January 1st, April 1st, July 1st, October 1st)
+
+### current news feed removing future-dating of warrant canary
+### curl --silent "http://feeds.reuters.com/reuters/scienceNews" | xmllint --xpath //item//title - | sed "s/<title>//g" | sed "s/<\/title>/\n/g"
+
+HAL-like robot to help astronaut in space odyssey
+New Cassini findings suggest Saturn moon could support life
+700-year-old Vatican drawing of Australian bird rewrites medieval trade route history
+Cigar-shaped interstellar visitor 'Oumuamua classified as comet
+European firm Arianespace to miss 2018 satellite launch target
+Japan probe arrives at asteroid after nearly four-year space odyssey
+'Space kingdom' seeks citizens for life beyond Earth very soon
+Nick Hague dreamed of the stars as a boy, now he's heading to space
+Trump orders creation of space-focused U.S. military branch
+Fields of dreams: Texas project seeks new corn strains for whiskey
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEuMqs6tlJMPEjxGQsI88uPSVFFPcFAls4WuAACgkQI88uPSVF
+FPelxw/8DE7wnH23a2Ohfc+6Ic+MHTOK7mfBUVhxVacPGsiMXR8WIRMLdxjqrrt9
+veJMTw7JA8U6zBXRdVpBctLsBzUiy/hcNkjzC2BTBvqIhKyJbOCU9RIXbgDx31gE
+lpuCBDJsrTQnCdX6PAIjinyooFYs6m5SWpwwNDQ7BEmuTZkNsrThPJxUZ8sNh8HF
+MpsuOGPfqo4sYyljyLG3ZblUe7BSblCGcE5nak2vd5UohYuE6157UDGsZjC7sHXJ
+sCa6s/3sW73Unxlkq6AYnSRthOp6hu628C6AcRrN2TYQ9gFKJOqBPjCsxVvlNZuI
+mSOwb6kpM0iiGkbWA5eN34UdvTIPvwa3Atk7KCnmbmdP+KuVZrM87Ty3CE7G6zTY
+MtJRD/TgyvOxQQOLjzcAwYaPG1/Lh8QW2w1paKa9IG6jRz7jA2VU5ojJh107atOm
+R/egeDFGgbLiYi9bYNXNDU8J4jwh2/DNxhnlCETLLD2GaSPgdIhk54WxGwcHPKqD
+KEEMfh3z45qMaZxkpxDPrwwIdrs2emlhBZGCefYymvp4eomKJk07rtY933oXGnQU
+V/HO60hvll1fTxOoL89ZlTidD0caciPSd/pJosGbeI/K261CttBqGF4hCyvX/tbl
+4fywI+L6u3/s8VMJLIb/7KQBumk4ECy5uyEfqBeCa/1/hBAiIFE=
+=YNnP
+-----END PGP SIGNATURE-----

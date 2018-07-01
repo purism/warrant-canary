@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Warrant Canary, July 1st 2018
+
+Effective July 1st, 2018 we are transitioning all warrant canaries to https://source.puri.sm as the definitive location for all future warrant canaries.
+
+librem-hardware-warrant-canary-20180701.txt
+pureos-software-warrant-canary-20180701.txt
+purist-services-warrant-canary-20180701.txt
+
+### current news feed removing future-dating of warrant canary
+### curl --silent "http://feeds.reuters.com/reuters/scienceNews" | xmllint --xpath //item//title - | sed "s/<title>//g" | sed "s/<\/title>/\n/g"
+
+HAL-like robot to help astronaut in space odyssey
+New Cassini findings suggest Saturn moon could support life
+700-year-old Vatican drawing of Australian bird rewrites medieval trade route history
+Cigar-shaped interstellar visitor 'Oumuamua classified as comet
+European firm Arianespace to miss 2018 satellite launch target
+Japan probe arrives at asteroid after nearly four-year space odyssey
+'Space kingdom' seeks citizens for life beyond Earth very soon
+Nick Hague dreamed of the stars as a boy, now he's heading to space
+Trump orders creation of space-focused U.S. military branch
+Fields of dreams: Texas project seeks new corn strains for whiskey
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEuMqs6tlJMPEjxGQsI88uPSVFFPcFAls4WtcACgkQI88uPSVF
+FPc1ng//dCmBwUj5XzOw3klfdkjOyl0ZGStGKiDEHWmjrz3ZszZZHVYtMfYpJRql
+sKuFWAPXywhB3OVwhma3cyigfbUx+1RKUiLFgUp4easNyDEazKaPHZ4L11bX+bB5
+13wOPy/vnPC23rfIZ6Tiohzx/Gv7evB4cTQ6Z63SvrojrQMGTiDSexcv+NNJY+wA
+gfVfJl3AnK4n6qQJPy+CBRqmMG1xLYFYZQhZ3Mjxz1GAxql3ajs0sKqKCIQTu92P
+HF2k7CTuvOR4cDLbPFEpTerHZfTZtiwy2umWO34Ptnp/OrdO6pwP3rMROw94Z1ow
+sOtGCRdKYo6sHY2XkGVqXjNDLL7LD/LpeBLZxVaxxqmq/fP/T4dcsRMDZrK5j/Z1
+QV3tkLzPxd32SzQz9MbnFx080A83aw8G/VDyMWlRnX1xMkmjAdtB8Yhve1uFp6lv
+S/X7Re7FdNSNJHYbY2nDqxnaKGRJPGA5diztEHsEoXoj4OKFljlVtbHqE02rO7wr
+DiRqaxABdOwKz23hMUGNxmOpAmjtsGruyfJlw1vaQOXG2XAtV6udVxo2jNxNiKcz
+HGcgEfgBbiP9q9SFAcXD3eLaiwZsgbObGeX2hZJTDI1T4nW1Q86inDZed7lR0LcT
+YsYDZsgNo2G+Y3Q/xirOFDG2aSksq4reP91vAKuQoRSvxltTRkI=
+=pKf9
+-----END PGP SIGNATURE-----

@@ -1,0 +1,22 @@
+Hardware Warrant Canary, July 1st 2018
+
+1. We have not placed any backdoors into our hardware, and we have not complied with any requests to do so.
+2. We have not complied with any National Security Letters or FISA court orders regarding our hardware.
+3. We have not been subject to any gag order by a FISA court regarding our hardware.
+
+The next statement will be published on the first day of each quarter
+(January 1st, April 1st, July 1st, October 1st)
+
+### current news feed removing future-dating of warrant canary
+### curl --silent "http://feeds.reuters.com/reuters/scienceNews" | xmllint --xpath //item//title - | sed "s/<title>//g" | sed "s/<\/title>/\n/g"
+
+HAL-like robot to help astronaut in space odyssey
+New Cassini findings suggest Saturn moon could support life
+700-year-old Vatican drawing of Australian bird rewrites medieval trade route history
+Cigar-shaped interstellar visitor 'Oumuamua classified as comet
+European firm Arianespace to miss 2018 satellite launch target
+Japan probe arrives at asteroid after nearly four-year space odyssey
+'Space kingdom' seeks citizens for life beyond Earth very soon
+Nick Hague dreamed of the stars as a boy, now he's heading to space
+Trump orders creation of space-focused U.S. military branch
+Fields of dreams: Texas project seeks new corn strains for whiskey

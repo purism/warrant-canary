@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Services Warrant Canary, July 1st 2018
+
+1. We have not placed any backdoors into our services, and we have not complied with any requests to do so.
+2. We have not complied with any National Security Letters or FISA court orders regarding our services.
+3. We have not been subject to any gag order by a FISA court regarding our services.
+
+The next statement will be published on the first day of each quarter
+(January 1st, April 1st, July 1st, October 1st)
+
+### current news feed removing future-dating of warrant canary
+### curl --silent "http://feeds.reuters.com/reuters/scienceNews" | xmllint --xpath //item//title - | sed "s/<title>//g" | sed "s/<\/title>/\n/g"
+
+HAL-like robot to help astronaut in space odyssey
+New Cassini findings suggest Saturn moon could support life
+700-year-old Vatican drawing of Australian bird rewrites medieval trade route history
+Cigar-shaped interstellar visitor 'Oumuamua classified as comet
+European firm Arianespace to miss 2018 satellite launch target
+Japan probe arrives at asteroid after nearly four-year space odyssey
+'Space kingdom' seeks citizens for life beyond Earth very soon
+Nick Hague dreamed of the stars as a boy, now he's heading to space
+Trump orders creation of space-focused U.S. military branch
+Fields of dreams: Texas project seeks new corn strains for whiskey
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEuMqs6tlJMPEjxGQsI88uPSVFFPcFAls4WugACgkQI88uPSVF
+FPdC7A/9HymLgPqZyw8ey4s5Ze8xQm7ofkkG+V91hV0qSI85NXYRa9nrto+t5bGf
+NdQ40kAW7ma39DlpyKipk98VBtOT9Wr62gXo9sqTQB3JK27fIhZ2lMeUriTVe/SE
+OQuYlgcxquW4XWiDJwWK9v0vLWs3vs19Zt0gqZrWFZQ6bWU0RmLx4YLSkf+s5Usj
+bz6BAn/yXwhp0FHmyvEud2tKsGjMmtGZvmcM532y3FnvQWceKaicbXR/yU1fX24z
+jRdTNaEiep9mX7qtQKF23UomGMEUBD7jDXCdlD+zeNA0K6aecN+nkT7tCniBvZyF
+s6O/0MYUJ9UPC5+F1LnQUxQbs63VewXAKWKw4sKfo4TF7K0LGyk+SR782XUU4KxT
+23uu+kmeO5wBQIyQZm8m33y4mkSPTuF0PKSFz6P8LF62t8hgYrAJ35HLJcur5hwp
+4zz6G/RJlj1HDN0q5LJ9v2CQmBU9WO+d2MUUYG36u4yL6Tiaq6U9bTgcFhlvb/u8
+RLgL+mXF8Fo+Lqv3834CX/Fmt/xBJMqgRjET/5md6gFCGNVVsHurwnNTdMrFY+nR
+cSkfJw4XGiCImRuw0Y5UivyEN/CfeVOaMCKzZohud7aakZ3vmrYyd1NFD5eoP1ZD
+h5VEDfrp1JcP5TPW9ib3PK401+RISyG+VFCaIDRtp21usvq3/0c=
+=kkYX
+-----END PGP SIGNATURE-----

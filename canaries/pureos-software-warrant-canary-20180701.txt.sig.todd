@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Software Warrant Canary, July 1st 2018
+
+1. We have not placed any backdoors into our software, and we have not complied with any requests to do so.
+2. We have not complied with any National Security Letters or FISA court orders regarding our software.
+3. We have not been subject to any gag order by a FISA court regarding our software.
+
+The next statement will be published on the first day of each quarter
+(January 1st, April 1st, July 1st, October 1st)
+
+### current news feed removing future-dating of warrant canary
+### curl --silent "http://feeds.reuters.com/reuters/scienceNews" | xmllint --xpath //item//title - | sed "s/<title>//g" | sed "s/<\/title>/\n/g"
+
+HAL-like robot to help astronaut in space odyssey
+New Cassini findings suggest Saturn moon could support life
+700-year-old Vatican drawing of Australian bird rewrites medieval trade route history
+Cigar-shaped interstellar visitor 'Oumuamua classified as comet
+European firm Arianespace to miss 2018 satellite launch target
+Japan probe arrives at asteroid after nearly four-year space odyssey
+'Space kingdom' seeks citizens for life beyond Earth very soon
+Nick Hague dreamed of the stars as a boy, now he's heading to space
+Trump orders creation of space-focused U.S. military branch
+Fields of dreams: Texas project seeks new corn strains for whiskey
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEuMqs6tlJMPEjxGQsI88uPSVFFPcFAls4WuUACgkQI88uPSVF
+FPcvBQ/+PNHpwrSJbvEvHVTDlj1N3MCHTAQ3/VYipAQ2lDboNLWLKj3xT3VgAiOx
+si053mymoqdP6x1ng/JQ37zC8wtWS2bR2AmNNQEtuXQM9DbIf/uVn/ryKOpzQ2xt
+HSRTEM2xvdgIh+Q8G41f+7eQOaTmniX4hN4cJkHQuPIhyG3H0/TsAt6cnltF1SOK
+9HlxQg0GvwNg5k5+0UOrrb4pSJ1UV0l0NQqJjnKNMy5P5kt8NFiyQZKtHkr215eJ
+bgXpPXCxz/6x/ZtSwI21WfBy1qm9zpeOJ47KN/WqTd6shEXNBr1EpsZp86fvQGW+
+unFcxsasoWQy1kVUmVV5u3R5pKXCl0N0oYdOKMqRQb9hGPMlzPFrNJXrhjFoybfP
+QzPJ//2f0opkcC+RyId1R9JwEWCc7nhAVZqjzfkbeJ2l2XIYtl5WUmA14BuHlJJH
+dO2uI6zeun8xSvZWFSUmFlKbV/QF56p85oRBr7Cd+NP2t8yoY5p/aFJvplp9coNv
+CKtHpCYXxHIDymUXeGdEISlINYvFccbVktvJmXzuBy0cQK9glg3AuOTk+tJdxjqT
+VF+0Far20Yh0hYb1J4NXKqG5/KIEb1VZu+u2Ipl5A0NgKnKgQV9lZg5+UuWvy2BG
+e1FWFkMyyfn7rYIAHdfLycMVpB7AUcOsbE8Jk2TKtVDJG9DRNjQ=
+=Xg4e
+-----END PGP SIGNATURE-----
